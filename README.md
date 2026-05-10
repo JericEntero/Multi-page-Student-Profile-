@@ -15,7 +15,7 @@ Features
 - This is an HTML form with labels and input boxes.
 
 Files Used
-ProfilePage.html
-Contact.html
-Profile.jpg
-README.md
+- ProfilePage.html
+- Contact.html
+- Profile.jpg
+- README.md
