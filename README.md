@@ -3,8 +3,9 @@ Personal Bio Website
 Project Description
 This is a basic personal bio website created in HTML. It has two pages, one Bio and one Contact. The site is correctly structured, presented with navigation links, semantic elements, lists, images and a contact form.
 
-Included Pages - `ProfilePage.html` - This is the personal bio, profile image and hobbies list
-- `Contact.html` - An html file with a contact form with labels for each input field.
+Included Pages
+- `ProfilePage.html` - This is the personal bio, profile image and hobbies list
+- `Contact.html` - An HTML file with a contact form with labels for each input field.
 
 Features
 - Two HTML pages
